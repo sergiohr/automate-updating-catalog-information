@@ -10,6 +10,11 @@ rm ~/supplier-data/images/README
 sudo chmod +x ~/changeImage.py
 ./changeImage.py
 
+sudo chmod +x ~/example_upload.py
+./example_upload.py
+
 sudo chmod +x ~/supplier_image_upload.py
 ./supplier_image_upload.py
 
+sudo chmod +x ~/run.py
+./run.py
