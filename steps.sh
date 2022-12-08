@@ -22,4 +22,6 @@ sudo chmod +x ~/run.py
 sudo chmod +x ~/report_email.py
 ./report_email.py
 
+sudo chmod +x ~/health_check.py
+./health_check.py
 
