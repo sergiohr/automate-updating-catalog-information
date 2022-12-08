@@ -18,3 +18,8 @@ sudo chmod +x ~/supplier_image_upload.py
 
 sudo chmod +x ~/run.py
 ./run.py
+
+sudo chmod +x ~/report_email.py
+./report_email.py
+
+
